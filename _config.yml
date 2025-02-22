@@ -25,9 +25,9 @@ author:
   avatar           : "1731006056536.jpg"
   name             : "Lilian Heydel"
   pronouns         : "he/him"  
-  bio              : "Student in a master degree in Planetology and Space Exploration, I'm interested in the study of the giant planets of our Solar System. I'm aiming to specialize in the numerical modelisation of the physics of the atmosphere of those bodies."
+  bio              : #""
   location         : "Paris region"
-  employer         : "Université Saint-Quentin-en-Yvelines (UVSQ) | Université Paris-Saclay"
+  employer         : "Université Paris-Saclay"
   uri              : # URL
   email            : "lilian.heydel@ens.uvsq.fr" 
 
