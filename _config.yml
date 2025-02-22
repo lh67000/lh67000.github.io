@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "1731006056536.jpg"
-  name             : "Your Sidebsdsqar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  avatar           : "images/1731006056536.jpg"
+  name             : "Lilian Heydel"
+  pronouns         : "he/him"  
+  bio              : "M1 Student"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
